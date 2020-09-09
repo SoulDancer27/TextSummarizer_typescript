@@ -3,8 +3,7 @@
  * @packageDocumentation
  */
 import React, { useState } from 'react';
-import { Box, Grid, Button, TextField } from '@material-ui/core';
-import { withStyles } from '@material-ui/core';
+import { Box, Grid, Button, TextField, withStyles } from '@material-ui/core';
 
 const styles = {
   inputform: {
