@@ -14,12 +14,6 @@
     "esModuleInterop": true,
     "baseUrl": "./src",
     "paths": {
-      "interfaces/*": ["interfaces/*"],
-      "interfaces": ["interfaces"],
-      "services/*": ["services/*"],
-      "services": ["services"],
-      "models/*": ["models/*"],
-      "models": ["models"],
       "helpers/*": ["helpers/*"],
       "helpers": ["helpers"],
       "config": ["config"]
